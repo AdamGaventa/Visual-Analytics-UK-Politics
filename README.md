@@ -11,4 +11,4 @@ https://policyagendasuk.wordpress.com/datasets/
 Showed that the emphasis of the Speech from the Throne has changed: becoming more focused on policy than on public relations; and focusing more on Social Welfare, Law & Crime, and Civil Rights.
 Interesting wordclouds created, but these aren't robust enough for a more complete NLP analysis of the data.
 
-[Jupyter notebook project](/Queens Speech.ipynb)
+[Jupyter notebook project](/Queens_Speech.ipynb)
